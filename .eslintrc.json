@@ -1,0 +1,17 @@
+{
+    "extends": ["lcy", "./.eslintrc-auto-import.json"],
+    "globals": {
+        "echarts": true,
+        "$$": "readonly",
+        "$ref": "readonly",
+        "$computed": "readonly",
+        "$shallowRef": "readonly",
+        "$customRef": "readonly",
+        "$toRef": "readonly",
+        "defineOptions": "readonly",
+        "definePropsRefs": "readonly"
+    },
+    "rules": {
+
+    }
+}
